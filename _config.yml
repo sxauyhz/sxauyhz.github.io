@@ -4,7 +4,7 @@ description: >
 about: >
     T.............
 master_repo: false
-url: "http://huizhao.ltd/"
+url: "http://huizhao.ltd"
 markdown: kramdown
 highlighter: rouge
 
