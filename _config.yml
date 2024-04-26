@@ -1,10 +1,10 @@
 name: Wiki
 description: >
-    T-------------
+    本身是想记录一下技术的东西，但是一直也没能搞，甚是遗憾～
 about: >
     T.............
 master_repo: false
-url: "http://huizhao.ltd"
+url: "https://sxauyhz.github.io"
 markdown: kramdown
 highlighter: rouge
 
